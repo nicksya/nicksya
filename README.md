@@ -27,12 +27,12 @@ Skills and certification path:
 Java Technology Stack:
 J2EE, JBoss, Apache Tomcat, Maven, Eclipse / IntelliJ Idea, WSDL, XSD, REST, Spring, Spring Boot, Spring Cloud, JUnit.
 
-Programming languages: Java, C++.
+💬Programming languages: Java, Python, Go
 
 ⚡Certifications:
-AWS: CLF-C01; SAA-C03; DVA-C02; DOP-C02
-Azure: AZ-900
-CISCO: CCNA
+- AWS: CLF-C01; SAA-C03; DVA-C02; DOP-C02
+- Azure: AZ-900
+- CISCO: CCNA
 
 Operation Systems (Experience):
 FreeBSD, Linux, CISCO IOS, MS Windows
