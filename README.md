@@ -1,4 +1,4 @@
-## Hi there 👋
+## Summary 👋
 
 <!--
 **nicksya/nicksya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ General: Leading the team. Communicate with "tough" customer. Finance, Travel an
 Knowledge of DevOps Tools: Docker/Kubernetes
 Cloud technologies: IaC/Compute/DB
 
-About: Team player, diplomatic and friendly. Striving for highest results.
+👯About: Team player, diplomatic and friendly. Striving for highest results.
 
 Achievements: saved support contract by taking leadership over a team, managing customers expectations, solving infrastructure issues, developing approach and processes for support team.
 
@@ -29,7 +29,7 @@ J2EE, JBoss, Apache Tomcat, Maven, Eclipse / IntelliJ Idea, WSDL, XSD, REST, Spr
 
 Programming languages: Java, C++.
 
-Certifications:
+⚡Certifications:
 AWS: CLF-C01; SAA-C03; DVA-C02; DOP-C02
 Azure: AZ-900
 CISCO: CCNA
